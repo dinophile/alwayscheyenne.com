@@ -5,3 +5,4 @@ keywords: Coffee, Coding, Dinosaurs Rawrrr
 author: Cheyenne Arrowsmith
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "www.alwayscheyenne.com" # the base hostname & protocol for your site
+future: true

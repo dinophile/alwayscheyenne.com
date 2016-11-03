@@ -13,4 +13,4 @@ My github is very very new and sparsely populated. It showcases my learning jour
 
 ## Feel free to comment!
 
-I know that most of the repos are assignment code, and not always finished, but if you see anything you'd like to comment on or have something new for me to google please feel free to let me know!
+I've added a few new secret weapons to my tool belt as I've continued to learn, and hopefully will just keep on adding more! If you see anything I can improve on or know of projects that I could contribute to let me know!
