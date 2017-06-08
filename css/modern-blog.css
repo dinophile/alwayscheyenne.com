@@ -86,8 +86,24 @@
 }
 
 .card__container--closed .card__title {
-	color: #ffff11;
+	font-size: 1.75em;
 }
+
+
+.card__container--closed .card__subtitle {
+	font-size: 1.25em;
+}
+
+.card__container--closed .card__title,
+.card__container--closed .card__subtitle  {
+	color: #fff;
+	/*background-color: #fff;*/
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-shadow: 3px 3px 5px #000;
+	font-weight: bold;
+}
+
 
 .card__subtitle {
 	font-size: .95em;
@@ -96,9 +112,6 @@
 	color: #ff0066;
 }
 
-.card__container--closed .card__subtitle {
-	color: #ffff11;
-}
 
 .card__copy {
 	font-size: 1.25em;

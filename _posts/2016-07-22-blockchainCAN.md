@@ -2,7 +2,7 @@
 title:  "My First Commision!"
 subtitle: "A custom page built for Blockchain Canada"
 author: "Cheyenne"
-avatar: "img/authors/cheyenne.png"
+avatar: "img/authors/Cheyenne.jpg"
 image: "img/projects.jpg"
 date:   2016-07-22 1:40 PM
 ---

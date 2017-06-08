@@ -2,7 +2,7 @@
 title:  "Check out my Github!"
 subtitle: "Be kind! I'm a work in progress!"
 author: "Cheyenne"
-avatar: "img/authors/cheyenne.png"
+avatar: "img/authors/Cheyenne.jpg"
 image: "img/e.jpg"
 date:   2016-06-25 3:24 PM
 ---

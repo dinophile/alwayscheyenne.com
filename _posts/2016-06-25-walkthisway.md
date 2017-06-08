@@ -2,7 +2,7 @@
 title:  "Walk This Way!"
 subtitle: "Bitmaker Final Group Project"
 author: "Cheyenne"
-avatar: "img/authors/cheyenne.png"
+avatar: "img/authors/Cheyenne.jpg"
 image: "img/toronto.jpg"
 date:   2016-06-25 3:31 PM
 ---
